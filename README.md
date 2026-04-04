@@ -2,7 +2,7 @@
 
 My name is Benjamin.
 
-I'm years old and am currently studying at the DHBW in Stuttgart.
+I'm currently studying at the DHBW in Stuttgart.
 
 I work at a company named Friedrich Luetze GmbH while doing that.
 
