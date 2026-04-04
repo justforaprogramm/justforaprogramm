@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my profile page!
 
-<!--
-**justforaprogramm/justforaprogramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Benjamin.
 
-Here are some ideas to get you started:
+I'm years old and am currently studying at the DHBW in Stuttgart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at a company named Friedrich Luetze GmbH while doing that.
+
+## 🔭 My habbits
+
+- studying Informatics
+- playing the drums
+- gaming
+   Minecraft
+   - Satisfactory
+   - Trackmania
+   ...
