@@ -2,9 +2,8 @@
 
 My name is Benjamin.
 
-I'm currently studying at the DHBW in Stuttgart.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=justforaprogram&show_icons=true&theme=radical)
 
-I work at a company named Friedrich Luetze GmbH while doing that.
 
 ## 🔭 My habbits
 
