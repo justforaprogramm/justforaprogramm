@@ -2,15 +2,15 @@
 
 My name is Benjamin.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=justforaprogramm&show_icons=true&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=justforaprogramm&theme=solarized&border_radius=27.5)
 
 
-## 🔭 My habbits
+## My habbits
 
 - studying Informatics
-- playing the drums
+- playing drums
 - gaming
-   Minecraft
-   - Satisfactory
+   - Minecraft
+   - Rocket League
    - Trackmania
    ...
