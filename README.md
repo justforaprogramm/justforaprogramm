@@ -2,7 +2,7 @@
 
 My name is Benjamin.
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=justforaprogramm&theme=solarized&border_radius=27.5)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=justforaprogramm&theme=solarized&border_radius=25&custom_title=My+GitHub+Stats)
 
 
 ## My habbits
